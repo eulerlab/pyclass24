@@ -13,6 +13,7 @@
   No assistance before submission.
 - The projects may be one of the proposals listed below or one of your own ideas. Projects based on your own ideas are
   very welcome!
+- __After project submission, we will select 3-4 projects for presentations, which means that the team needs to demonstrate their solution (likely in a Zoom call).__ 
 - Your programming job will be evaluated according to the following criteria:
 
   | Criterion                                                                                                                                                                             | Weight |
