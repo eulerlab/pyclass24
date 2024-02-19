@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+faker
+scipy
+aseriouspackage==0.0.2
