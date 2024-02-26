@@ -15,7 +15,7 @@ startFolder/
 # Files
 *.pickle
 *.pkl
-
+*.npy
 *.csv
 *.DS_Store
 */.key.txt
