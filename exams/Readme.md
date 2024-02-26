@@ -90,5 +90,5 @@ scope mentioned above; The plus signs (+ to +++) indicated difficulty of the und
 - Structure from motion (7,++)
 - Forest fires (8,++)
 - Kaggle challenge ()
-
+- Pacman (7,++)
 
