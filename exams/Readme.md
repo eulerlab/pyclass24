@@ -8,11 +8,12 @@
 ### Rules and grading of projects
 
 - **Master students of the Neural & Behavioural class** must work on and present a programming project; the project will
-  be graded (?).
+  be not graded (pass/fail).
 - All **other participants** must do the following in order to get credits for the course: Work on and submit a project.
   No assistance before submission.
 - The projects may be one of the proposals listed below or one of your own ideas. Projects based on your own ideas are
   very welcome!
+- __After project submission, we will select 3-4 projects for presentations, which means that the team needs to demonstrate their solution (likely in a Zoom call).__ 
 - Your programming job will be evaluated according to the following criteria:
 
   | Criterion                                                                                                                                                                             | Weight |
@@ -42,7 +43,7 @@ your program to run:
   instructions, the notebook could contain example code how to use your program.
 - executables (.exe files) are not allowed in the .zip file
 
-When you are done but **no later that March 31, 2023**, drop the .zip file into the `Final exam projects` folder on
+When you are done but **no later that March 31, 2024**, drop the .zip file into the `Final exam projects` folder on
 ILIAS.
 
 ### Guidelines for code
@@ -82,7 +83,6 @@ Rating of projects: The number (4 to 8) indicates programming effort, correspond
 scope mentioned above; The plus signs (+ to +++) indicated difficulty of the underlying science/analysis concepts.
 
 - Spike threshold detector and time stamp generator (6,+)
-- Dijkstra algorithm (6,++)
 - Reichardt motion detector (6, ++)
 - Conway's game of life (7, ++)
 - Langton’s ant (7,++)
@@ -90,5 +90,5 @@ scope mentioned above; The plus signs (+ to +++) indicated difficulty of the und
 - Structure from motion (7,++)
 - Forest fires (8,++)
 - Kaggle challenge ()
-
+- Pacman (7,++)
 
