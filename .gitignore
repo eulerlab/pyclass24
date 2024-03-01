@@ -1,11 +1,3 @@
-# Exclude solutions
-**/solution
-**/solutions
-
-# Exclude exams
-exams/exam_dijkstras_algorithm.ipynb
-exams/exam_forest_fires.ipynb
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
